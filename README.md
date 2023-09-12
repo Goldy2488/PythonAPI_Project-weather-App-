@@ -19,6 +19,7 @@ Before you begin, ensure you have met the following requirements:
 - pip install requests
 
 **Usage**
+
 Obtain an API key from_ OpenWeatherMap_ if you don't already have one.
 
 Open the main.py file in a text editor.
