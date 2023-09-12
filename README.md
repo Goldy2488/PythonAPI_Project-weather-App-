@@ -10,6 +10,7 @@
 - Support for multiple cities in India.
 
 **Prerequisites**
+
 Before you begin, ensure you have met the following requirements:
 
 - Python 3 installed on your system.
